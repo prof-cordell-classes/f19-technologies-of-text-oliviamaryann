@@ -1,0 +1,21 @@
+#Lab Report: Multisensory Reading 
+
+####Olivia Mastrosimone 
+
+##Process Description 
+In this lab, we interacted with books created for vision impaired readers. The object of the lab was to feel these books without looking at them and notice what we observe. We were split into groups of three and rotated around the table, spending five minutes with each book. The first few I interacted with were difficult to understand, and I learned at the end of the class that they were both books that involved visuals. The next few were easier to comprehend, as the symbols were organized linearly and had more identifiable characteristics. 
+
+After each groups spent time with each book, we were finally able to look at them. The first book I worked with was a visual representation of a moon eclipse, the second was a book depicting flowers and snowflakes, the third a book written in moon text, and the others were written in Boston line type. One of them was a Boston line type version of Hamlet! We then had a class discussion about what we observed and how senses other than sight can be used to read, including touch and sight, and more generally discussed accessible reading technologies. 
+
+##Observations 
+It's difficult to grasp reading by touch until you encounter a book for blind or visually impaired readers. I was shocked by the variety of the types of texts and also the information presented in them. As someone who is not visually impaired, I never had to think about how information is presented to those who are visually impaired, specifically graphics. Interacting with an illustration made for these readers was extremely interesting and made me think more critically about what I read and how I read it. 
+
+I was also frustrated by not knowing the correct mechanisms to actually read the texts. I didn't know if I should be sliding my fingers, picking them up and placing them on each letter, using multiple at once, etc. – especially with the texts that had images. Again, this is something I never had to think about. The mechanism of sighted reading has become an instinct rather than a choice. 
+
+## Analysis 
+
+While I was completeing this lab, I found myself thinking back to this quote from *The Universal Page*: "Many media scholars and book historians make the point that reading doesn’t happen in the eyes, or the ears, or the fingers. It happens in the brain." It's clear that reading doesn't have to rely on sight and that we are capable of training our brain to read by touch. Going off of this, while interacting with these books, I wondered how reading or language would change if accessible texts were more integrated into society. Similar to Uzanne's idea of phonograph and how the technology would affect authors' vocal quality, would the integration of these books affect the way they are written? It's clear after completeing the lab that the content of books for visually impaired readers does not change, but perhaps if both sighted and non sighted readers interacted with them frequently, some aspect of language would be altered. 
+
+However, after thinking through this idea, I realized I was falling into a thought process that Sarah Hendren outlined in *ALl Technology is Assistive,* and that I was relying on my ability when thinking about assitive texts. In thinking that, after integrating assistive texts into able lives, the language or content would change assumes that the way these texts are written needs to be changed to better suit able readers, in other words, normalizing these texts. This quote from Hendren's essay came to mind: "the wearer will not “appear disabled,” with the presumption that a preconception of “normal” is always desirable." While this was in regards to hearing aids, the idea is the same. 
+
+Finally, after completing the lab and thinking through these two ideas, I realized that what I am actually questioning is the lack of education about assistive technology and accessible texts that the non-disabled population receives. Overall, this lab allowed me to think critically about something I never had to because of my circumstances and those of my close family and friends. It was shocking and humbling to be exposed to the various other reading methods, and I now believe there is a great benefit in educating the masses in assitive technology. 
